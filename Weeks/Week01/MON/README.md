@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><img src="https://cdn.codingworldnews.com/news/photo/202101/img_1953_0.jpg" height="300"/></h3>
+  <h3><img src="https://images.velog.io/images/kyle/post/b43968c8-412e-4bad-9e02-805bd14d5445/what-is-an-algorithm.png" height="300"/></h3>
 
   ### <center>**6월 27일 - Monday**</center>
   <!--Java-->
