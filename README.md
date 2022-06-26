@@ -11,6 +11,11 @@
 - 매일 `4~5`개의 알고리즘 문제를 풀고 코드리뷰 진행
 - 각자 Branch에서 `Add` & `Commit` & `Push` 후에 `Pull-Request`해서 풀이한 날짜 폴더에 코드+풀이방법 올리기
 
+## 💾 File Name
+- `문제번호_이름`
+  - `BOJ2644_JH`
+  - `BOJ2644_BH`
+
 ## ✅ Commit Message
 - `Baekjoon : [Solve] ✍ BOJ1033 칵테일`
 - `Programmers : [Solve] ✍ 기능개발(Level2)`
@@ -36,4 +41,4 @@
 
 ---
 
-@Copyright <a href = "https://github.com/sth4881">송진호</a>
+Made By <a href = "https://github.com/sth4881">송진호</a>
