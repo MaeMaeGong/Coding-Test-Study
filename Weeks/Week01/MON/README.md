@@ -9,7 +9,7 @@
 
   <!--문제를 풀었으면 위의 아이콘을 복사해서 붙여넣기-->
   <!--링크 삽입할 때 Forked Repo(개인 저장소)가 아닌 Remote Repo(원본 저장소) 주소를 붙여넣을 것-->
-  |                    이름                    |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> DFS와 BFS](https://www.acmicpc.net/problem/1260)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 촌수계산](https://www.codetree.ai/missions/2/concepts/2/problems/best-cross-shape-bomb/description)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 외판원 순회 2](https://www.acmicpc.net/problem/10971)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 연구소](https://www.acmicpc.net/problem/14502)|
+  |                    이름                    |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> DFS와 BFS](https://www.acmicpc.net/problem/1260)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 촌수계산](https://www.acmicpc.net/problem/2644)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 외판원 순회 2](https://www.acmicpc.net/problem/10971)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 연구소](https://www.acmicpc.net/problem/14502)|
   |:---:|:---:|:---:|:---:|:---:|
   |[김경훈](https://github.com/khoon-git)|🧠|🧠|🧠|🧠|
   |[김민수](https://github.com/Minsu9130)|🧠|🧠|🧠|🧠|
