@@ -13,6 +13,6 @@
   |:---:|:---:|:---:|:---:|:---:|
   |[김경훈](https://github.com/khoon-git)|🧠|🧠|🧠|🧠|
   |[김민수](https://github.com/Minsu9130)|🧠|🧠|🧠|🧠|
-  |[김병훈](https://github.com/hunibottle)|🧠|🧠|🧠|🧠|
+  |[김병훈](https://github.com/hunibottle)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>]|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>]|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>]|🧠|
   |[송진호](https://github.com/sth4881)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](https://github.com/MaeMaeGong/Coding-Test-Study/blob/main/Weeks/Week01/MON/BOJ1260_JH.md)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](https://github.com/MaeMaeGong/Coding-Test-Study/blob/main/Weeks/Week01/MON/BOJ2644_JH.md)|🧠|🧠|
 </div>
