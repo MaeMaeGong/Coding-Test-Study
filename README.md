@@ -23,7 +23,7 @@
 ## 📚 Weekly Schedule
 |Week| MON | TUE | WED | THU | FRI |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|1주차|[6/27](https://github.com/MaeMaeGong/Coding-Test-Study/tree/main/Weeks/Week01/MON)|6/28|6/29|6/30|7/1|
+|1주차|[6/27](https://github.com/MaeMaeGong/Coding-Test-Study/tree/main/Weeks/Week01/MON)|[6/28](https://github.com/MaeMaeGong/Coding-Test-Study/blob/main/Weeks/Week01/TUE/README.md)|6/29|6/30|7/1|
 
 ## 🤝 Contributers
 <a href = "https://github.com/khoon-git">
