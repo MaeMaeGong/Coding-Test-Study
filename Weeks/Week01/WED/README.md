@@ -9,7 +9,7 @@
 
   <!--문제를 풀었으면 위의 아이콘을 복사해서 붙여넣기-->
   <!--링크 삽입할 때 Forked Repo(개인 저장소)가 아닌 Remote Repo(원본 저장소) 주소를 붙여넣을 것-->
-  |이름|문제1|문제2|문제3|문제4|
+  |이름|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 섬의 개수](https://www.acmicpc.net/problem/4963)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 점프 점프](https://www.acmicpc.net/problem/11060)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 숫자판 점프](https://www.acmicpc.net/problem/2210)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 인구 이동](https://www.acmicpc.net/problem/16234)|
   |:---:|:---:|:---:|:---:|:---:|
   |[김경훈](https://github.com/khoon-git)|🧠|🧠|🧠|🧠|
   |[김민수](https://github.com/Minsu9130)|🧠|🧠|🧠|🧠|
