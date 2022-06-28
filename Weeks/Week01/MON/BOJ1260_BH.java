@@ -34,7 +34,6 @@ public class BOJ1260_BH {
         }
 
         dfs(V);
-        // node = new int[1001][1001];
         visited = new boolean[1001];
         System.out.println();
         bfs();
@@ -66,7 +65,6 @@ public class BOJ1260_BH {
                     System.out.print(i + " ");
                 }
             }
-
         }
     }
 }
