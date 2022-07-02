@@ -29,7 +29,7 @@ public class BOJ10971_MS {
         
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        n = Integer.parseInt(br.readLine());    // 도시의 수
+        n = Integer.parseInt(br.readLine());    //  도시의 수
 
         board = new int[n][n];
 
