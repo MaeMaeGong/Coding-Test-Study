@@ -14,5 +14,5 @@
   |[김경훈](https://github.com/khoon-git)|🧠|🧠|🧠|🧠|
   |[김민수](https://github.com/Minsu9130)|🧠|🧠|🧠|🧠|
   |[김병훈](https://github.com/hunibottle)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](https://github.com/MaeMaeGong/Coding-Test-Study/blob/main/Weeks/Week01/FRI/BOJ1080_BH.java)|🧠|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](https://github.com/MaeMaeGong/Coding-Test-Study/blob/main/Weeks/Week01/FRI/BOJ1052_BH.java)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](https://github.com/MaeMaeGong/Coding-Test-Study/blob/main/Weeks/Week01/FRI/BOJ1092_BH.java)|
-  |[송진호](https://github.com/sth4881)|🧠|🧠|🧠|🧠|
+  |[송진호](https://github.com/sth4881)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1080_JH.md)|🧠|🧠|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1092_JH.md)|
 </div>
