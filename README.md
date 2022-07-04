@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 Manual
-- 매일 `4~5`개의 알고리즘 문제를 풀고 코드리뷰 진행
+- 매일 `3~4`개의 알고리즘 문제를 풀고 코드리뷰 진행
 - 각자 Branch에서 `Add` & `Commit` & `Push` 후에 `Pull-Request`해서 풀이한 날짜 폴더에 코드+풀이방법 올리기
 
 ## 💾 File Name
@@ -23,7 +23,9 @@
 ## 📚 Weekly Schedule
 |Week| MON | TUE | WED | THU | FRI |
 |:--:|:---:|:---:|:---:|:---:|:---:|
-|1주차|[6/27](./Weeks/Week01/MON/README.md)|[6/28](./Weeks/Week01/TUE/README.md)|[6/29](./Weeks/Week01/WED/README.md)|[6/30](./Weeks/Week01/THU/README.md)|[7/1](./Weeks/Week01/FRI/README.md)|
+|Week01|[6/27](./Weeks/Week01/MON/README.md)|[6/28](./Weeks/Week01/TUE/README.md)|[6/29](./Weeks/Week01/WED/README.md)|[6/30](./Weeks/Week01/THU/README.md)|[7/1](./Weeks/Week01/FRI/README.md)|
+|Week02|[7/4](./Weeks/Week02/MON/README.md)|[7/5](./Weeks/Week02/TUE/README.md)|[7/6](./Weeks/Week02/WED/README.md)|[7/7](./Weeks/Week02/THU/README.md)|[7/8](./Weeks/Week02/FRI/README.md)|
+
 
 ## 🤝 Contributers
 <a href = "https://github.com/khoon-git">
