@@ -1,7 +1,7 @@
 <div align="center">
   <h3><img src="https://images.velog.io/images/kyle/post/b43968c8-412e-4bad-9e02-805bd14d5445/what-is-an-algorithm.png" height="300"/></h3>
 
-  ### <center>**7월 07일 - Thursday**</center>
+  ### <center>**7월 7일 - Thursday**</center>
   <!--Java-->
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>
   <!--Python-->
@@ -14,5 +14,5 @@
   |[김경훈](https://github.com/khoon-git)|🧠|🧠|🧠|🧠|
   |[김민수](https://github.com/Minsu9130)|🧠|🧠|🧠|🧠|
   |[김병훈](https://github.com/hunibottle)|🧠|🧠|🧠|🧠|
-  |[송진호](https://github.com/sth4881)|🧠|🧠|🧠|🧠|
+  |[송진호](https://github.com/sth4881)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](BOJ2346_JH.md)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1935_JH.md)|🧠|🧠|
 </div>
