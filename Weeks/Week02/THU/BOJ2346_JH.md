@@ -13,8 +13,6 @@
 
 ### 소스코드
 ```java
-package com.algorithm.baekjoon;
-
 import java.io.*;
 import java.util.*;
 
