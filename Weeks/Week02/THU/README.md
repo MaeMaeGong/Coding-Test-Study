@@ -12,7 +12,7 @@
   |이름|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 후위 표기식2](https://www.acmicpc.net/problem/1935)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 창고 다각형](https://www.acmicpc.net/problem/2304)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 트럭](https://www.acmicpc.net/problem/13335)|
   |:---:|:---:|:---:|:---:|:---:|
   |[김경훈](https://github.com/khoon-git)|🧠|🧠|🧠|🧠|
-  |[김민수](https://github.com/Minsu9130)|🧠|🧠|🧠|🧠|
+  |[김민수](https://github.com/Minsu9130)|🧠|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1935_MS.java)|🧠|🧠|
   |[김병훈](https://github.com/hunibottle)|🧠|🧠|🧠|🧠|
   |[송진호](https://github.com/sth4881)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](BOJ2346_JH.md)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1935_JH.md)|🧠|🧠|
 </div>
