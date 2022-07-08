@@ -1,7 +1,7 @@
 <div align="center">
   <h3><img src="https://images.velog.io/images/kyle/post/b43968c8-412e-4bad-9e02-805bd14d5445/what-is-an-algorithm.png" height="300"/></h3>
 
-  ### <center>**6월 27일 - Monday**</center>
+  ### <center>**7월 4일 - Monday**</center>
   <!--Java-->
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>
   <!--Python-->
