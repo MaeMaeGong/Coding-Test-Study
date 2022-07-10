@@ -10,12 +10,12 @@ public class BOJ14502_BH {
     static int n, m;
     static int[][] virus;
     static boolean[][] visited;
-    static int[][] copy_virus;
+    static int answer = 0;
 
-    static int cnt; // 벽 세운 갯수
-    static int x, y; // 바이러스 위치
+    static int cnt = 0; // 벽 세운 갯수
 
     static Queue<Infection> queue = new LinkedList<Infection>();
+    static int[][] copy_virus;
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -34,26 +34,12 @@ public class BOJ14502_BH {
             }
         }
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (virus[i][j] == 2) {
-                    queue.add(new Infection(i, j));
-                }
-            }
-        }
-
-        make_wall();
-
-        System.out.println();
-        for (int[] s : virus) {
-            for (int ss : s) {
-                System.out.print(ss + " ");
-            }
-            System.out.println();
-        }
+        int cnt = 0;
+        make_wall(cnt);
+        System.out.println(answer);
     }
 
-    public static void make_wall() {
+    public static void make_wall(int cnt) {
         if (cnt == 3) {
             bfs();
             return;
@@ -63,8 +49,7 @@ public class BOJ14502_BH {
             for (int j = 0; j < m; j++) {
                 if (virus[i][j] == 0) {
                     virus[i][j] = 1;
-                    cnt++;
-                    make_wall();
+                    make_wall(cnt + 1);
                     virus[i][j] = 0;
                 }
             }
@@ -73,14 +58,61 @@ public class BOJ14502_BH {
 
     public static void bfs() {
 
+        queue.clear();
+
+        for (int a = 0; a < n; a++) {
+            for (int b = 0; b < m; b++) {
+                copy_virus[a][b] = virus[a][b];
+            }
+        }
+
+        for (int a = 0; a < n; a++) {
+            for (int b = 0; b < m; b++) {
+                if (virus[a][b] == 2) {
+                    queue.add(new Infection(a, b));
+                }
+            }
+        }
+
+        while (!queue.isEmpty()) {
+            Infection infect = queue.poll();
+            int r = infect.sx;
+            int c = infect.sy;
+
+            for (int i = 0; i < 4; i++) {
+                int nr = r + dr[i];
+                int nc = c + dc[i];
+
+                if (nr >= 0 && nc >= 0 && nr < n && nc < m) {
+                    if (copy_virus[nr][nc] == 0) {
+                        copy_virus[nr][nc] = 2;
+                        queue.add(new Infection(nr, nc));
+                    }
+                }
+            }
+        }
+
+        virus_count();
     }
 
-    public class Infection {
-        int x, y;
+    public static void virus_count() {
+        int count = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (copy_virus[i][j] == 0) {
+                    count++;
+                }
+            }
+        }
+        answer = Math.max(answer, count);
+    }
 
-        public Infection(int x, int y) {
-            this.x = x;
-            this.y = y;
+    public static class Infection {
+        int sx, sy;
+
+        public Infection(int sx, int sy) {
+            this.sx = sx;
+            this.sy = sy;
         }
     }
 }
