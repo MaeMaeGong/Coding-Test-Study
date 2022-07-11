@@ -13,5 +13,5 @@
   |:---:|:---:|:---:|:---:|:---:|
   |[김경훈](https://github.com/khoon-git)|🧠|🧠|🧠|🧠|
   |[김민수](https://github.com/Minsu9130)|🧠|🧠|🧠|🧠|
-  |[김병훈](https://github.com/hunibottle)|🧠|🧠|🧠|🧠|
+  |[김병훈](https://github.com/hunibottle)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ2512_BH.java)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1654_BH.java)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ7795_BH.java)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ14888_BH.java)|
   |[송진호](https://github.com/sth4881)|🧠|🧠|🧠|🧠|
