@@ -9,7 +9,7 @@
 
   <!--문제를 풀었으면 위의 아이콘을 복사해서 붙여넣기-->
   <!--링크 삽입할 때 Forked Repo(개인 저장소)가 아닌 Remote Repo(원본 저장소) 주소를 붙여넣을 것-->
-  |이름|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 파닭파닭] (https://www.acmicpc.net/problem/14627)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 공유기 설치] (https://www.acmicpc.net/problem/2110)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 입국심사] (https://www.acmicpc.net/problem/3079)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 개똥벌레] (https://www.acmicpc.net/problem/3020)|
+  |이름|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 파닭파닭](https://www.acmicpc.net/problem/14627)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 공유기 설치](https://www.acmicpc.net/problem/2110)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 입국심사](https://www.acmicpc.net/problem/3079)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 개똥벌레](https://www.acmicpc.net/problem/3020)|
   |:---:|:---:|:---:|:---:|:---:|
   |[김경훈](https://github.com/khoon-git)|🧠|🧠|🧠|🧠|
   |[김민수](https://github.com/Minsu9130)|🧠|🧠|🧠|🧠|
