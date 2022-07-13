@@ -9,7 +9,7 @@
 
   <!--문제를 풀었으면 위의 아이콘을 복사해서 붙여넣기-->
   <!--링크 삽입할 때 Forked Repo(개인 저장소)가 아닌 Remote Repo(원본 저장소) 주소를 붙여넣을 것-->
-  |이름|문제1|문제2|문제3|문제4|
+  |이름|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 01타일](https://www.acmicpc.net/problem/1904)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 파도반 수열](https://www.acmicpc.net/problem/9461)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> RGB거리](https://www.acmicpc.net/problem/1149)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 스티커](https://www.acmicpc.net/problem/9465)|
   |:---:|:---:|:---:|:---:|:---:|
   |[김경훈](https://github.com/khoon-git)|🧠|🧠|🧠|🧠|
   |[김민수](https://github.com/Minsu9130)|🧠|🧠|🧠|🧠|
