@@ -15,7 +15,7 @@ import java.io.*;
 
 public class BOJ1309 {
     static int N;
-    static int[] dp;
+    static int[][] dp;
     public static void main(String[] args) {
         try {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
