@@ -9,7 +9,7 @@
 
   <!--문제를 풀었으면 위의 아이콘을 복사해서 붙여넣기-->
   <!--링크 삽입할 때 Forked Repo(개인 저장소)가 아닌 Remote Repo(원본 저장소) 주소를 붙여넣을 것-->
-  |이름|문제1|문제2|문제3|문제4|
+  |이름|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 스타트와 링크](https://www.acmicpc.net/problem/14889)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 에너지 모으기](https://www.acmicpc.net/problem/16198)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 감시 피하기](https://www.acmicpc.net/problem/18428)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 원상 복구 (small)](https://www.acmicpc.net/problem/22858)|
   |:---:|:---:|:---:|:---:|:---:|
   |[김경훈](https://github.com/khoon-git)|🧠|🧠|🧠|🧠|
   |[김민수](https://github.com/Minsu9130)|🧠|🧠|🧠|🧠|
