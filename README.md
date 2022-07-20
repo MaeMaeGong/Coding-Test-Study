@@ -27,6 +27,7 @@
 |Week02|[7/4](./Weeks/Week02/MON/README.md)|[7/5](./Weeks/Week02/TUE/README.md)|[7/6](./Weeks/Week02/WED/README.md)|[7/7](./Weeks/Week02/THU/README.md)|[7/8](./Weeks/Week02/FRI/README.md)|
 |Week03|[7/11](./Weeks/Week03/MON/README.md)|[7/12](./Weeks/Week03/TUE/README.md)|[7/13](./Weeks/Week03/WED/README.md)|[7/14](./Weeks/Week03/THU/README.md)|[7/15](./Weeks/Week03/FRI/README.md)|
 |Week04|[7/18](./Weeks/Week04/MON/README.md)||[7/20](./Weeks/Week04/WED/README.md)||[7/22](./Weeks/Week04/FRI/README.md)|
+|Week05|[7/25](./Weeks/Week05/MON/README.md)||[7/27](./Weeks/Week05/WED/README.md)||[7/29](./Weeks/Week05/FRI/README.md)|
 
 ## 🤝 Contributers
 <a href = "https://github.com/khoon-git">
