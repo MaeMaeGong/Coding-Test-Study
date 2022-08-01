@@ -39,6 +39,7 @@ public class BOJ2512_BH {
             while (max >= min) {
                 middle = (max + min) / 2;
                 int bud = 0;
+
                 for (int i = 0; i < N; i++) {
                     if (middle >= budget[i]) {
                         bud += budget[i];
@@ -46,10 +47,12 @@ public class BOJ2512_BH {
                         bud += middle;
                     }
                 }
+
                 if (bud <= M) {
                     list.add(middle);
                 }
-                if (bud > M) {
+
+                if (bud >= M) {
                     max = middle - 1;
                 } else {
                     min = middle + 1;

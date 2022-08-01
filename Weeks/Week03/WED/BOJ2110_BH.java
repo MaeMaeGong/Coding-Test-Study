@@ -52,7 +52,6 @@ public class BOJ2110_BH {
                 max = middle - 1;
             }
         }
-
         System.out.println(answer);
     }
 }

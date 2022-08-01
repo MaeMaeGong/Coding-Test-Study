@@ -26,15 +26,14 @@ public class BOJ1263_BH {
             return b[1] - a[1];
         });
 
-        int start_time = time[0][1] - time[0][0];
-        int cnt = 0;
-        for (int i = 1; i < N; i++) {
+        int start_time = time[0][1];
+        for (int i = 0; i < N; i++) {
 
             if (time[i][1] < start_time) {
                 start_time = time[i][1];
             }
             start_time -= time[i][0];
-            // System.out.print(start_time + " ");
+            System.out.print(start_time + " ");
         }
 
         if (start_time > 0) {

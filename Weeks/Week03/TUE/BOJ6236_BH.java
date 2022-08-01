@@ -1,44 +1,50 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.StringTokenizer;
 
-public class BOJ3079_BH {
+public class BOJ6236_BH {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
-
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
 
+        ArrayList<Long> list = new ArrayList<>();
+
         int[] arr = new int[N];
+        int sum = 0;
+        long min = Integer.MAX_VALUE;
         for (int i = 0; i < N; i++) {
             arr[i] = Integer.parseInt(br.readLine());
+            sum += arr[i];
+            if (min > arr[i]) {
+                min = arr[i];
+            }
         }
-        Arrays.sort(arr);
 
-        long max = arr[N - 1] * 1000000000L;
-        long min = 0L;
-        long middle = 0L;
-        long answer = 0L;
+        long max = 1000000000;
+        long middle = 0;
+
         while (max >= min) {
             middle = (max + min) / 2;
 
-            long cnt = 0L;
+            long money = middle;
+            int cnt = 1;
             for (int i = 0; i < N; i++) {
-                cnt += middle / arr[i];
+                if (arr[i] > money) {
+
+                }
+                money = money - arr[i];
             }
 
-            // System.out.println("최댓값: " + max + " 최솟값: " + min + " 중간값: " + middle + "
-            // cnt: " + cnt);
-
-            if (cnt >= M) {
-                answer = middle;
-                max = middle - 1;
-            } else {
+            if (cnt > M) {
                 min = middle + 1;
+            } else {
+                max = middle - 1;
             }
         }
-        System.out.println(answer);
+        System.out.println(min);
     }
 }
