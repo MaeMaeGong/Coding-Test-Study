@@ -21,7 +21,7 @@ public class BOJ14501_BH {
 
         for (int i = N; i > 0; i--) {
 
-            int temp = i + day[i];
+            int temp = i + day[i];// N+1일을 초과하는지를 판단하기 위함
 
             if (temp <= N + 1) {
                 dp[i] = Math.max(money[i] + dp[temp], dp[i + 1]);

@@ -46,7 +46,7 @@ public class BOJ4889_BH {
                     }
                 }
             }
-            answer += stack.size() / 2;
+            answer += stack.size() / 2;// 그리디
             bw.write(cnt + ". " + answer + "\n");
             answer = 0;
             stack.clear();

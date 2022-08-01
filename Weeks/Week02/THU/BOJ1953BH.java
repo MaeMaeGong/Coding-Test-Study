@@ -24,14 +24,6 @@ public class BOJ1953BH {
             }
         }
 
-        // for (Double s : word_num) {
-        // System.out.print(s + " ");
-        // }
-        // System.out.println();
-        // for (String s : list) {
-        // System.out.print(s + " ");
-        // }
-        // System.out.println();
         for (int i = 0; i < word.length(); i++) {
             String temp = word.substring(i, i + 1);
             if (!temp.equals("+") && !temp.equals("-") && !temp.equals("/") && !temp.equals("*")) {

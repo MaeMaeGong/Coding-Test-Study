@@ -31,7 +31,7 @@ public class BOJ9465_BH {
             for (int i = 2; i <= n; i++) {
                 dp[0][i] = Math.max(dp[1][i - 1], dp[1][i - 2]) + arr[0][i];
                 dp[1][i] = Math.max(dp[0][i - 1], dp[0][i - 2]) + arr[1][i];
-                // System.out.println(dp[0][i] + " " + dp[1][i]);
+                System.out.println(dp[0][i] + " " + dp[1][i]);
             }
 
             bw.write(Math.max(dp[0][n], dp[1][n]) + "\n");
