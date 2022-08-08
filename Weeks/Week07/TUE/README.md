@@ -13,4 +13,4 @@
   |:---:|:---:|:---:|:---:|:---:|
   |[김민수](https://github.com/Minsu9130)|🧠|🧠|🧠|🧠|
   |[김병훈](https://github.com/hunibottle)|🧠|🧠|🧠|🧠|
-  |[송진호](https://github.com/sth4881)|🧠|🧠|🧠|🧠|🧠|
+  |[송진호](https://github.com/sth4881)|🧠|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1038_JH.md)|🧠|🧠|
